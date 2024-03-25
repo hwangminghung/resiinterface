@@ -1,0 +1,8 @@
+D:\Unity codegym\CtoF\resiinterface\bin\Debug\resiinterface.exe.config
+D:\Unity codegym\CtoF\resiinterface\bin\Debug\resiinterface.exe
+D:\Unity codegym\CtoF\resiinterface\bin\Debug\resiinterface.pdb
+D:\Unity codegym\CtoF\resiinterface\obj\Debug\resiinterface.csproj.AssemblyReference.cache
+D:\Unity codegym\CtoF\resiinterface\obj\Debug\resiinterface.csproj.SuggestedBindingRedirects.cache
+D:\Unity codegym\CtoF\resiinterface\obj\Debug\resiinterface.csproj.CoreCompileInputs.cache
+D:\Unity codegym\CtoF\resiinterface\obj\Debug\resiinterface.exe
+D:\Unity codegym\CtoF\resiinterface\obj\Debug\resiinterface.pdb
